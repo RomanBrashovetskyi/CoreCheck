@@ -1,5 +1,3 @@
-package t2;
-
 public class ClassInitDemo1 {
 
         public ClassInitDemo1() {
